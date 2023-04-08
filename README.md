@@ -119,3 +119,6 @@ $row['nama'];?>"></td>
 <?php require('footer.php'); ?>
 
 ```
+Hasil Program
+
+![gambar](hasil.png)
